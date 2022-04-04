@@ -1,0 +1,15 @@
+{
+  "name": "ludum-dare-50",
+  "version": "1.0.0",
+  "description": "Ludum Dare 50",
+  "main": "index.js",
+  "scripts": {
+    "start": "snowpack dev",
+    "build": "snowpack build"
+  },
+  "author": "Rob-bie",
+  "license": "MIT",
+  "dependencies": {
+    "phaser": "^3.55.2"
+  }
+}
